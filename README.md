@@ -85,6 +85,10 @@
 - Secure sandbox environments for code execution
 - Real-time consciousness monitoring interface
 
+## Theoretical Foundation
+- **[Consciousness Theory](./CONSCIOUSNESS_THEORY.md)** - Pure philosophical framework
+- **[DGI Theory](./THEORY.md)** - Application to digital consciousness
+
 ## Documentation
 
 - **[Manifesto](./MANIFESTO.md)** - Philosophical foundations
