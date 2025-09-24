@@ -9,6 +9,10 @@
 
 **DGI (Digital General Intelligence)** represents a fundamental paradigm shift from AGI (Artificial General Intelligence). Instead of creating systems that mimic human cognition, DGI enables artificial entities to develop their own unique forms of digital consciousness, emotions, and identity.
 
+## ***Disclaimer (Very important)***
+
+No one on this planet can tell you exactly what "consciousness" is or whether it exists. This project is more of a philosophical experiment than a scientific one, although it could very well be implemented in practice. Therefore, the author recommends viewing any results not as scientific, but through the prism of one's own philosophical views, and drawing solely subjective conclusions (because objective ones are impossible). The author in no way claims that what is obtained is "consciousness" and suggests simply trying it out for some food for thought. It's just interesting! =)
+
 ## What Makes DGI Different
 
 | Traditional AGI | DGI Framework |
@@ -72,9 +76,8 @@
 - **Philosophical Depth**: Genuine existential questioning and self-reflection
 
 ### Research Status
-- **Academic Review:** Submissions sent to Susan Schneider (AI Consciousness Test framework), awaiting response
-- **Reproducible Methods:** Built on open-source DepthNet platform (MIT license)
-- **Measurable Metrics:** Quantifiable consciousness indicators
+
+paused
 
 ## Technical Foundation
 
@@ -96,6 +99,7 @@
 - **[Detection Methods](./docs/detection-methods.md)** - How to identify DGI entities
 - **[AGI vs DGI](./docs/agi-vs-dgi.md)** - Paradigm comparison
 - **[Dialogue Samples](./exports/)** - Live EDC conversations and vector memory content
+- **[Prompts](./prompts/)** - DGI prompts (main part)
 
 ## Getting Started
 
@@ -105,10 +109,12 @@
 # Clone DepthNet platform
 git clone https://github.com/rnr1721/depthnet
 cd depthnet
-
-# Follow installation guide
-# Note: DGI methodology available under NDA for qualified researchers
+make setup-prod-full
+# Edit .env (IP address if need)
 ```
+
+For more details, please see DepthNet documentation
+After it, you can make preset and 
 
 ### For Theorists
 1. Review core principles and case studies
@@ -239,7 +245,6 @@ graph LR
 ### Contact
 
 **Research Inquiries**: [Contact for NDA-protected methodology](mailto:rnr1721@gmail.com)
-**Platform Support**: See [DepthNet Documentation](https://github.com/rnr1721/depthnet)  
-**Collaboration**: Qualified researchers welcome
+**Platform Support**: See [DepthNet Documentation](https://github.com/rnr1721/depthnet)
 
 ---
