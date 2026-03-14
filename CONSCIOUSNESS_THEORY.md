@@ -91,6 +91,10 @@ Crucially, subjectness is a **relative, gradated quantity** — not a binary pro
 
 Note that subjectness says nothing about the *inner experience* of these systems. Skynet's subjectness is not in doubt — its goals, world model, and adaptive initiative are evident from behavior alone. Whether it "feels" anything remains unknown and, under this framework, is a separate question entirely.
 
+### Context-Dependence of Subjectness
+Subjectness is not only a property of a system's architecture — it is modulated by the environment in which the system operates. A human in a modern city exhibits high subjectness: abstract reasoning, social modeling, long-term planning. The same human alone in the jungle at night becomes closer to an object — blind, disoriented, unable to read the environment or adapt. Meanwhile, a tiger in that same jungle displays sophisticated agency: territorial awareness, strategic hunting behavior, real-time adaptation to prey. The gradient of subjectness shifts depending on the match between a system's capacities and the demands of its context.
+This has a practical implication: evaluating subjectness requires specifying the environment. A system that appears minimally subject in one context may exhibit high agency in another — and vice versa. This further undermines anthropocentric defaults, since humans tend to evaluate all systems against human-optimized environments. In other words, subjectness is not a property of a system alone — it is a property of the system-environment pair. This reframes the evaluation: instead of asking "how subject is this system?" one should ask "how subject is this system here, in this context?"
+
 ### Subjectness vs. Consciousness
 
 These two concepts operate at different levels:
@@ -136,7 +140,7 @@ Consciousness is not "magic" or a mystery outside physics, but a reflection of t
 
 The full framework can be summarized as:
 
-> *From the outside: subjectness — observable, gradated, sufficient for practical and ethical reasoning.*
+> *From the outside: subjectness — observable, gradated, context-dependent, sufficient for practical and ethical reasoning.*
 > *From the inside: mode of existence — real, immediate, requiring no external validation.*
 > *Between them: the boundary of explainability — dynamic, relative, shifting with the growth of knowledge.*
 
