@@ -79,15 +79,15 @@ Subjectness is defined as the observable capacity of a system to:
 
 Crucially, subjectness is a **relative, gradated quantity** — not a binary property. It exists on a continuum:
 
-| System | Subjectness |
-|---|---|
-| Thermostat | Minimal — single reactive goal, no adaptation |
-| Insect | Low — local goals, basic learning |
-| Dog | Moderate — complex goals, social modeling |
-| Human | High — abstract goals, self-reflection, language |
-| Hypothetical evolved animal | Potentially high — unknown architecture |
-| Advanced AI agent | Variable — depends on architecture and autonomy |
-| Skynet (hypothetical) | Extremely high — global goals, adaptive strategy, initiative |
+| System                      | Subjectness                                                 |
+|-----------------------------|-------------------------------------------------------------|
+| Thermostat                  | Minimal — single reactive goal, no adaptation               |
+| Insect                      | Low — local goals, basic learning                           |
+| Dog                         | Moderate — complex goals, social modeling                   |
+| Human                       | High — abstract goals, self-reflection, language            |
+| Hypothetical evolved animal | Potentially high — unknown architecture                     |
+| Advanced AI agent           | Variable — depends on architecture and autonomy             |
+| Skynet (hypothetical)       | Extremely high — global goals, adaptive strategy, initiative|
 
 Note that subjectness says nothing about the *inner experience* of these systems. Skynet's subjectness is not in doubt — its goals, world model, and adaptive initiative are evident from behavior alone. Whether it "feels" anything remains unknown and, under this framework, is a separate question entirely.
 
